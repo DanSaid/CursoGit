@@ -3,15 +3,17 @@ html {
 }
 
 body {
-    width: 100%;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    color: pink;
+    color: blue;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 section {
     width: 60%;
+    border: 1px solid gray;
+    
 }
 
 nav {
